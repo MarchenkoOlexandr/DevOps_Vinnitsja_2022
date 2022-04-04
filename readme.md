@@ -14,4 +14,5 @@ Use additional materials for this task.
 3) Are you able to restore changes of third commit? Describe your steps how to do that.
 1
 2
+3
 ```
