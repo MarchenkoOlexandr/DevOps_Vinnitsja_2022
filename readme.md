@@ -17,4 +17,5 @@ Use additional materials for this task.
 3
 4
 
+For restore changes of third commit I can use git reflog and then git reset --hard (number of commit)
 ```
