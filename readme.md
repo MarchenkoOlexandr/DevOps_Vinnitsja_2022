@@ -13,4 +13,5 @@ Use additional materials for this task.
 2) Execute command “git reset --hard HEAD~4”
 3) Are you able to restore changes of third commit? Describe your steps how to do that.
 1
+2
 ```
